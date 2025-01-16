@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Hgz3kWpYEHE=",
+  "dgSpecHash": "+2RaA4/TKbE=",
   "success": true,
   "projectFilePath": "/Users/werr2410i/Desktop/TgMail/TgMail.csproj",
   "expectedPackageFiles": [
@@ -10,17 +10,8 @@
     "/Users/werr2410i/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
     "/Users/werr2410i/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "/Users/werr2410i/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "/Users/werr2410i/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "/Users/werr2410i/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/Users/werr2410i/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512",
     "/Users/werr2410i/.nuget/packages/telegram.bot/22.3.0/telegram.bot.22.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://nuget.voids.site/v3/index.json."
-    }
-  ]
+  "logs": []
 }
