@@ -11,18 +11,14 @@ namespace TelegramClient {
         }
 
         public void Start() {
+            using var cts = new CancellationTokenSource();
+            _botClient.OnError += OnError;
+            _botClient.OnMessage += OnMessage;
+            _botClient.OnUpdate += OnUpdate;
 
-            var receiverOptions = new ReceiverOptions {
-                AllowedUpdates = Array.Empty<UpdateType>()
-            };
-
-            _botClient.StartReceiving(
-                HandleUpdateAsync,
-                HandleErrorAsync,
-                receiverOptions
-            );
-
-            System.Console.WriteLine("Telegram-Bot have been started");
+            Console.WriteLine("Bot is running... Press Enter to terminate");
+            Console.ReadLine();
+            cts.Cancel();
         }
     }
 }

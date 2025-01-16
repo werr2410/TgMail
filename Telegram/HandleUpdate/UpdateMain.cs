@@ -6,15 +6,10 @@ using Telegram.Bot.Types.Enums;
 
 namespace TelegramClient {
     public partial class BotClient {
-        private async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken) {
-            if(update.Message is not null && update.Message.Text is not null) {
-                var message = update.Message;
-
-                await botClient.SendMessage(
-                    chatId: message.Chat.Id,
-                    text: message.Text,
-                    cancellationToken: cancellationToken
-                );    
+        private async Task OnUpdate(Update update) {
+            if (update is { CallbackQuery: { } query }) {
+                await _botClient.AnswerCallbackQuery(query.Id, $"You picked {query.Data}");
+                await _botClient.SendMessage(query.Message!.Chat, $"User {query.From} clicked on {query.Data}");
             }
         }
     }
