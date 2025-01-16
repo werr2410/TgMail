@@ -1,0 +1,14 @@
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/TgMail
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/TgMail.deps.json
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/TgMail.runtimeconfig.json
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/TgMail.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/TgMail.pdb
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.AssemblyInfoInputs.cache
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.AssemblyInfo.cs
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.csproj.CoreCompileInputs.cache
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.dll
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/refint/TgMail.dll
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.pdb
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.genruntimeconfig.cache
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/ref/TgMail.dll
