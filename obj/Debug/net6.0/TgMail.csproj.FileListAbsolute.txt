@@ -12,3 +12,16 @@
 /Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.pdb
 /Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.genruntimeconfig.cache
 /Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/ref/TgMail.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/System.Text.Json.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/Telegram.Bot.dll
+/Users/werr2410i/Desktop/TgMail/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.csproj.AssemblyReference.cache
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.sourcelink.json
+/Users/werr2410i/Desktop/TgMail/obj/Debug/net6.0/TgMail.csproj.Up2Date
